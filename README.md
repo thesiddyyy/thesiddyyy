@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
 <h3 align="center">A Passionate Data Science Student</h3>
-(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"
+(img align="right" alt="Coding" width="400" src=https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesiddyyy&label=Profile%20views&color=0e75b6&style=flat" alt="thesiddyyy" /> </p>
 
