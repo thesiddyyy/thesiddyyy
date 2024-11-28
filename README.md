@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesiddyyy&label=Profile%20views&color=0e75b6&style=flat" alt="thesiddyyy" /> </p>
 
-- 🌱 I’m currently learning **NLP, ML Pipelines, Cloud Technology, Power BIi**
+- 🌱 I’m currently learning **NLP, ML Pipelines, Cloud Technology, Power BI, Nueral Network**
 
 - 📫 How to reach me **sanemsiddharth@gmail.com**
 
